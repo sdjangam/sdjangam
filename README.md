@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdjangam&label=Profile%20views&color=0e75b6&style=flat" alt="sdjangam" /> </p>
 
-- 🔭 I’m currently working on [Artificial Intelligence Engineer](https://github.com/sdjangam/Machine-learning-)
+- 🔭 I’m currently working on **AWS AI Services**
 
 - 🌱 I’m currently learning **AWS Docker Scikit-Learn TensorFlow Keras PyTorch CNTK**
 
