@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shubham Jangam</h1>
-<h3 align="center">AI Engineer From Pune</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdjangam&label=Profile%20views&color=0e75b6&style=flat" alt="sdjangam" /> </p>
 
 - 🔭 I’m currently working on **AWS AI Services**
 
-- 🌱 I’m currently learning **AWS Docker Scikit-Learn TensorFlow Keras PyTorch CNTK**
-
-- 👯 I’m looking to collaborate on [Speech & Emotion analysis using CNN & NLP](https://github.com/sdjangam/Machine-learning-/tree/master/Artificial%20Intelligence/chatbot%20using%20DialogFlow)
-
-- 🤝 I’m looking for help with [AI Snake Game Reinforcement Learning](https://github.com/sdjangam/Machine-learning-/tree/master/Artificial%20Intelligence/chatbot%20using%20DialogFlow)
-
 - 👨‍💻 All of my projects are available at [https://github.com/sdjangam](https://github.com/sdjangam)
 
 - 📄 Certification In Data Science [https://github.com/sdjangam/Certifications](https://github.com/sdjangam/Certifications)
-
-- 💬 About me **An Artificial Intelligence Engineer**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shubham-jangam/**
 
