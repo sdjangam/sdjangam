@@ -9,7 +9,7 @@
 
 - 📄 Certification In Data Science [https://github.com/sdjangam/Certifications](https://github.com/sdjangam/Certifications)
 
-- 📫 How to reach me **https://www.linkedin.com/in/shubham-jangam/**
+
 
 - 📄 Know about my experiences [https://github.com/sdjangam/Certifications](https://github.com/sdjangam/Certifications)
 
