@@ -7,11 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sdjangam](https://github.com/sdjangam)
 
-- 📄 Certification In Data Science [https://github.com/sdjangam/Certifications](https://github.com/sdjangam/Certifications)
-
-
-
-- 📄 Know about my experiences [https://github.com/sdjangam/Certifications](https://github.com/sdjangam/Certifications)
 
 - ⚡ AI fact **the goal of AI is to provide software that can reason on input and explain on output. AI will provide human-like interactions with software and offer decision support for specific tasks.**
 
